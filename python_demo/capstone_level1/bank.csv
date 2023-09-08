@@ -1,0 +1,101 @@
+,Rank,Bank name,Headquarters location,Total assets(billions of US$)[3],CET1capitalrequirement(2022)[4][5],Market capitalization  (billions of US$)[6]
+0,1,JPMorgan Chase,New York City,"$3,744",12.0,$459.21
+1,2,Bank of America,Charlotte,"$3,194",10.4,$252.05
+2,3,Citigroup,New York City,"$2,455",11.5,$91.89
+3,4,Wells Fargo,San Francisco,"$1,886",9.2,$167.58
+4,5,Goldman Sachs,New York City,"$1,538",13.3,$118.10
+5,6,Morgan Stanley,New York City,"$1,199",13.3,$151.00
+6,7,U.S. Bancorp,Minneapolis,$682,7.0,$59.65
+7,8,PNC Financial Services,Pittsburgh,$561,7.4,$53.78
+8,9,Truist Financial,Charlotte,$555,7.0,$43.53
+9,10,"TD Bank, N.A.","Cherry Hill, New Jersey",$514,7.0,$119.26
+10,11,Charles Schwab Corporation,"Westlake, Texas",$511,7.0,$119.56
+11,12,Capital One,"McLean, Virginia",$471,7.6,$44.23
+12,13,The Bank of New York Mellon,New York City,$425,8.5,$35.03
+13,14,BMO USA,Chicago,$339,7.9,$65.43
+14,15,State Street Corporation,Boston,$290,8.0,$23.93
+15,16,American Express,New York City,$235,7.0,$124.20
+16,17,Citizens Financial Group,"Providence, Rhode Island",$222,7.9,$14.85
+17,18,First Citizens BancShares,"Raleigh, North Carolina",$219,–,$20.32
+18,19,HSBC Bank USA,New York City,$217,10.9,$165.28
+19,20,Fifth Third Bank,Cincinnati,$208,7.0,$19.42
+20,21,USAA,San Antonio,$204,–,N/A
+21,22,M&T Bank,"Buffalo, New York",$202,9.2,$22.71
+22,23,KeyCorp,Cleveland,$198,7.0,$11.02
+23,24,UBS,New York City,$197,9.3,$71.44
+24,25,Ally Financial,Detroit,$197,7.0,$9.00
+25,26,Huntington Bancshares,"Columbus, Ohio",$189,7.8,$17.52
+26,27,Barclays,New York City,$182,8.8,$31.18
+27,28,Santander Bank,Boston,$177,8.2,$63.69
+28,29,Ameriprise,Minneapolis,$166,–,$35.80
+29,30,RBC Bank,Toronto,$165,7.9,$135.63
+30,31,Regions Financial Corporation,"Birmingham, Alabama",$154,7.0,$18.97
+31,32,Northern Trust,Chicago,$151,7.0,$16.33
+32,33,Discover Financial,"Riverwoods, Illinois",$133,7.0,$26.90
+33,34,Deutsche Bank,New York City,$128,9.0,$23.53
+34,35,New York Community Bank,"Hicksville, New York",$123,–,$8.82
+35,36,Synchrony Financial,"Stamford, Connecticut",$107,–,$14.82
+36,37,Comerica,Dallas,$91,–,$6.85
+37,38,First Horizon National Corporation,"Memphis, Tennessee",$80,–,$7.37
+38,39,Raymond James Financial,"St. Petersburg, Florida",$79,–,$23.42
+39,40,Webster Bank,"Stamford, Connecticut",$74,–,$7.98
+40,41,BNP Paribas,New York City,$72,9.6,$73.15
+41,42,Western Alliance Bancorporation,"Phoenix, Arizona",$71,–,$5.48
+42,43,Mizuho Financial Group,New York City,$68,,$40.78
+43,44,"Popular, Inc.","San Juan, Puerto Rico",$67,–,$4.95
+44,45,CIBC Bank USA,Chicago,$67,–,$40.58
+45,46,East West Bank,"Pasadena, California",$67,,$8.48
+46,47,Valley National Bank,"Wayne, New Jersey",$64,,$4.94
+47,48,Synovus,"Columbus, Georgia",$61,,$4.78
+48,49,Columbia Bank,"Tacoma, Washington",$53,,$4.64
+49,50,Wintrust Financial,"Rosemont, Illinois",$52,,$5.14
+50,51,John Deere,"Reno, Nevada",$52,,$4.34
+51,52,"Cullen/Frost Bankers, Inc.",San Antonio,$51,,$7.53
+52,53,Old National Bank,"Evansville, Indiana",$47,,$4.61
+53,54,Credit Suisse (Acquired by UBS in June 2023),New York City,$47,13.5,N/A
+54,55,BOK Financial Corporation,"Tulsa, Oklahoma",$45,,$6.10
+55,56,Pinnacle Financial Partners,"Nashville, Tennessee",$45,,$5.63
+56,57,South State Bank,"Winter Haven, Florida",$44,,$5.76
+57,58,FNB Corporation,Pittsburgh,$44,,$4.55
+58,59,PacWest Bancorp (in the process of being acquired by Banc of California - closing in 2024),Los Angeles,$41,,$1.08
+59,60,MUFG Union Bank (acquired by U.S. Bancorp in December 2022),New York City,$43,–,N/A
+60,61,Associated Banc-Corp,"Green Bay, Wisconsin",$41,,$2.79
+61,62,UMB Financial Corporation,"Kansas City, Missouri",$40,,$3.39
+62,63,Beal Bank,"Plano, Texas",$39,,N/A
+63,64,Stifel,St. Louis,$38,,$6.92
+64,65,Prosperity Bancshares,Houston,$37,,$5.83
+65,66,Hancock Whitney,"Gulfport, Mississippi",$37,,$3.71
+66,67,MidFirst Bank,Oklahoma City,$37,,$3.66
+67,68,BankUnited,"Miami Lakes, Florida",$37,,$2.18
+68,69,TIAA,New York City,$36,,$4.55
+69,70,Sumitomo Mitsui Banking Corporation,New York City,$35,,N/A
+70,71,Commerce Bancshares,"Kansas City, Missouri",$32,,$6.70
+71,72,First Interstate BancSystem,"Billings, Montana",$31,,$2.87
+72,73,United Bank (West Virginia),"Charleston, West Virginia",$29,,$4.34
+73,74,FirstBank Holding Co,"Lakewood, Colorado",$28,,N/A
+74,75,Texas Capital Bank,Dallas,$28,,$3.01
+75,76,First National of Nebraska,"Omaha, Nebraska",$28,,$3.39
+76,77,Glacier Bancorp,"Kalispell, Montana",$27,,$3.66
+77,78,Simmons Bank,"Pine Bluff, Arkansas",$27,,$2.45
+78,79,Fulton Financial Corporation,"Lancaster, Pennsylvania",$27,,$2.31
+79,80,Arvest Bank,"Bentonville, Arkansas",$26,,N/A
+80,81,BCI Financial Group,Miami,$26,,N/A
+81,82,Ameris Bancorp,Atlanta,$26,,$2.86
+82,83,United Community Bank,"Greenville, South Carolina",$26,,$3.42
+83,84,First Hawaiian Bank,Honolulu,$24,,$2.77
+84,85,Bank of Hawaii,Honolulu,$24,,$2.22
+85,86,Eastern Bank,Boston,$23,,$2.51
+86,87,Home BancShares,"Conway, Arkansas",$22,,$4.74
+87,88,Washington Federal,Seattle,$22,,$1.98
+88,89,Cathay Bank,Los Angeles,$22,,$2.72
+89,90,Customers Bancorp,"Wyomissing, Pennsylvania",$21,,$1.33
+90,91,Pacific Premier Bancorp,"Irvine, California",$21,,$2.33
+91,92,Hope Bancorp,Los Angeles,$20,,$1.22
+92,93,WSFS Bank,"Wilmington, Delaware",$20,,$2.55
+93,94,Heartland Financial USA,"Dubuque, Iowa",$20,,$1.44
+94,95,Atlantic Union Bank,"Richmond, Virginia",$20,,$2.25
+95,96,Central Bancompany,"Jefferson City, Missouri",$20,,$3.16
+96,97,Axos Financial,Las Vegas,$19,,$2.64
+97,98,SoFi,San Francisco,$19,,$9.11
+98,99,Independent Bank,"Rockland, Massachusetts",$19,,$2.60
+99,100,First BanCorp,"San Juan, Puerto Rico",$12,,$2.57
