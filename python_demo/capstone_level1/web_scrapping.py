@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-url = "https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States"
+#url = "https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States"
+query = "guitar"
+url = f"https://www.amazon.in/s?k={query}"
 page=requests.get(url)
 print(page.status_code)# 20*# --check the website
 
