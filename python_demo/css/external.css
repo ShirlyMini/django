@@ -1,0 +1,28 @@
+*{
+color:black;
+background-image: url(background1.jpg);
+}
+
+h1{
+background-color:purple;
+}
+
+
+p{
+background-color:blue;
+font-family: Papyrus;
+font-style:Normal;
+font-weight:bold;
+}
+
+#firstid{
+    background-color:yellow;
+}
+
+#secondid{
+    background-color:cyan;
+}
+
+.odd{
+    color:hsl(309, 94%, 50%);
+}

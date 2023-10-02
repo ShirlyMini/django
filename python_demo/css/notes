@@ -1,0 +1,11 @@
+css - cascade styling sheet
+1. inline
+2. internal
+3. external
+
+https://www.w3schools.com/colors/colors_names.asp
+
+color:#008000;
+color:rgb(0, 66, 128);
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
