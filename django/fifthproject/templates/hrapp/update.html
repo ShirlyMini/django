@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% extends 'hrapp/base.html'  %}
+</head>
+<body>
+{%block content%}
+<h1>Register Employee</h1>
+<form method="post">
+    Employee no:<input type="text" name="emp_no" value="{{data.emp_no}}">
+    Employee name:<input type="text" name="emp_name"  value="{{data.emp_name}}">
+    Employee salary:<input type="text" name="emp_sal"  value="{{data.emp_sal}}">
+    Employee address:<input type="text" name="emp_addr"  value="{{data.emp_addr}}">
+    {%csrf_token%}
+    <input type="submit" value="update">
+
+</form>
+{%endblock%}
+</body>
+</html>

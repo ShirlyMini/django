@@ -1,5 +1,0 @@
-2023-08-15 23:41:26,094 DEBUG this is a debug msg
-2023-08-15 23:41:26,094 INFO this is a info msg
-2023-08-15 23:41:26,094 WARNING this is a warning msg
-2023-08-15 23:41:26,095 ERROR this is a error msg
-2023-08-15 23:41:26,095 CRITICAL this is a critical msg

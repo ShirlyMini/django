@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% extends 'hrapp/base.html'  %}
+</head>
+<body>
+{%block content%}
+<h1>Employee Database</h1>
+<table border="3">
+    <thead>
+    <tr>
+        <td>ID</td>
+        <td>Name</td>
+        <td>Salary</td>
+        <td>City</td>
+    </tr>
+    </thead>
+    <tbody>
+    {%for emp in employee_data%}
+    <tr>
+        <td>{{emp.emp_no}}</td>
+        <td>{{emp.emp_name}}</td>
+        <td>{{emp.emp_sal}}</td>
+        <td>{{emp.emp_addr}}</td>
+        <td><a href="/update/{{emp.id}}"><button type="button">Update</button></a></td>
+        <td><a href="/del/{{emp.id}}"><button type="button">Delete</button></a></td>
+
+    </tr>
+    {%endfor%}
+    </tbody>
+</table>
+
+<a href="/reg"><button type="button">Add Employee</button></a>
+
+{%endblock%}
+</body>
+</html>

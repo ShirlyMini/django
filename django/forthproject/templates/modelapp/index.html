@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="3">
+{% for stud in stud_info%}
+
+    <tr>
+
+    <td>{{stud.stud_name}}</td>
+    <td>{{stud.stud_dept}}</td>
+    <td>{{stud.stud_marks}}</td>
+    </tr>
+
+
+{% endfor %}
+    </table>
+
+<form>
+    {{stud_reg.as_p}}
+</form>
+</body>
+</html>

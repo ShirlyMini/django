@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% extends 'hrapp/base.html'  %}
+</head>
+<body>
+{%block content%}
+<h1>Register Employee</h1>
+<form method="post">
+    {{from.as_p}}
+    {% csrf_token %}
+    <input type="submit" value="Add">
+</form>
+{%endblock%}
+</body>
+</html>

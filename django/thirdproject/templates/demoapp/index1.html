@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <title>Page1</title>
+    <link rel="stylesheet" href="{% static 'demoapp/sample.css' %}">
+</head>
+<body>
+    <h1>this is page1 message</h1>
+    <h2>{{display_time}}</h2>
+    <h4>{{course}}</h4>
+    <h4>{{batch}}</h4>
+    <p>By default, the configuration uses SQLite. If you’re new to databases, or you’re just interested in trying Django, this is the easiest choice. SQLite is included in Python, so you won’t need to install anything else to support your database. When starting your first real project, however, you may want to use a more scalable database like PostgreSQL, to avoid database-switching headaches down the road.</p>
+    <img src="{% static 'demoapp/image1.jpg' %}" alt="My image">
+</body>
+</html>
